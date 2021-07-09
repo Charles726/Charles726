@@ -1,8 +1,8 @@
 # Olá, Sou o Charles! 👨‍💻<br>
-<a href="https://www.linkedin.com/in/charles-abreu-097012121/" target="_blank">
+<a href="https://www.linkedin.com/in/charles-abreu-097012121/" target="_blank">Linkedin
 		<img align="center" alt="charles-abreu-097012121" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 	</a>
-<a href="https://twitter.com/CharlesAbreu726/" target="_blank">
+<a href="https://twitter.com/CharlesAbreu726/" target="_blank">Twitter
 		<img align="center" alt="CharlesAbreu726" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="max-width: 100%;">
 	</a>
 
