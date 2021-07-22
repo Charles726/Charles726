@@ -40,6 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png" width="50" height="40" style="max-width: 100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="40" height="40" style="max-width: 100%;"></img>
+<img src="https://lh3.googleusercontent.com/proxy/VeEVf4pv3i1lRpKvxJIKxlikVZtXyjR0UGfRdCUEZOCByYAcjwbx5UixU-hGNTIIEOkeKxflegW2zFqI5nrnpksVaPzVdXqY__8t1hYTBYk" alt="rails" width="30" height="40" style="max-width: 100%;"></img>
 
 ## Lingugens que Gostaria de Estudar! <img src="https://www.pngkit.com/png/full/126-1269287_studenticon-student-icon-blue-png.png" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
