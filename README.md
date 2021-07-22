@@ -10,7 +10,7 @@
 📚 Atualmente sou aluno do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.<br>
 💒 Moro no Rio de Janeiro, tenho 45 anos e sou casado!<br>
 🚩 E-mail: charles_726@hotmail.com. <br>
-🎓 Estudando desenvolvimento web com foco em front-ende back-end.<br>
+🎓 Estudando desenvolvimento web com foco em front-end e back-end.<br>
 🔨 Procurando oportunidade de estágio na área. <br>
 ❤️ Meus hobbies são games de estratégia, ler, e filmes.<br>
 🚀 Membro da comunidade Rocketseat.<br>
