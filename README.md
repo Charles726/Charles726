@@ -58,9 +58,5 @@
 
 ### ⚡Estatisticas do Github! <br>
 
-![Charles726's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles726&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles726&exclude_repo=github-readme-stats,Charles726.github.io)](https://github.com/Charles726/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles72
 
