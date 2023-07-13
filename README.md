@@ -1,10 +1,10 @@
 # Olá, Sou o Charles! 👨‍💻<br>
 <a href="https://www.linkedin.com/in/charles-abreu-097012121/" target="_blank">
-		<img align="center" alt="charles-abreu-097012121" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
-	</a>
+<img align="center" alt="charles-abreu-097012121" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
+</a>
 <a href="https://twitter.com/CharlesAbreu726/" target="_blank">
-		<img align="center" alt="CharlesAbreu726" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="max-width: 100%;">
-	</a>
+<img align="center" alt="CharlesAbreu726" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="max-width: 100%;">
+</a>
 
 ## Sobre Mim!
 📚 Atualmente sou aluno do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.<br>
