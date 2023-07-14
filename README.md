@@ -36,3 +36,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles726&layout=compact)
 
+![snake gif](https://github.com/Charles726/Charles726/blob/output/github-contribution-grid-snake.svg)
