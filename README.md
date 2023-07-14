@@ -10,44 +10,19 @@
 📚 Atualmente sou aluno do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.<br>
 💒 Moro no Rio de Janeiro, tenho 47 anos e sou casado!<br>
 🚩 Entre em contato pelo E-mail: charles_726@hotmail.com. <br>
+🎓 Sou Instrutor de Informática e Cursos Profissionalizantes.                                                     
 🎓 Estudando desenvolvimento web com foco em front-end e back-end.<br>
 🔨 Procurando oportunidade de estágio na área. <br>
 ❤️ Meus hobbies são games de estratégia, ler, e filmes.<br>
 🚀 Membro da comunidade Rocketseat.<br>
 
-### Linguagens em aprendizando!! <img src="https://images.vexels.com/media/users/3/166357/isolated/lists/c5b257ec928464e3515b7ad11484009b-chapeu-de-formatura-e-icone-de-diploma.png" alt="rails" width="50" height="40" style="max-width: 100%;"></img>
+### Tecnologias em estudo!! <img src="https://images.vexels.com/media/users/3/166357/isolated/lists/c5b257ec928464e3515b7ad11484009b-chapeu-de-formatura-e-icone-de-diploma.png" alt="rails" width="50" height="40" style="max-width: 100%;"></img>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://e7.pngegg.com/pngimages/838/327/png-clipart-website-development-programming-language-computer-programming-logo-php-program-logo-blue-text-thumbnail.png" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://www.agenciacrow.com.br/themes/agencia-crow/assets/images/tech/bootstrap.png" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://icon-library.com/images/ajax-icon/ajax-icon-7.jpg" width="40" height="40" style="max-width: 100%;"></img>
-
-
-
-
-
-### 🔧 Ferramentas de Estudo!! <img src="https://www.nicepng.com/png/full/78-785242_clip-library-study-clip-art-at-clker-com.png" alt="rails" width="30" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://packagecontrol.io/readmes/img/62bd030c0e6ca168ee94a1a526b9df67b0ca98ee.png" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png" width="50" height="40" style="max-width: 100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="40" height="40" style="max-width: 100%;"></img>
-
-
-## Linguagens que Gostaria de Estudar! <img src="https://www.pngkit.com/png/full/126-1269287_studenticon-student-icon-blue-png.png" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width="40" height="40" style="max-width: 100%;"></img>
-<br>
 
 ### 🎯Interesses!<br>
 ⭐Aprendizado sempre!!<br>
@@ -57,4 +32,7 @@
 ⭐Conseguir trabalho como developer e continuar crescendo!<br>
 
 ### ⚡Estatisticas do Github! <br>
+![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles726&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles726&layout=compact)
 
