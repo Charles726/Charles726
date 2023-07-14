@@ -7,7 +7,7 @@
 </a>
 
 ## Sobre Mim!
-📚 Atualmente sou aluno do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.<br>
+📚 Faço Faculdade em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.<br>
 💒 Moro no Rio de Janeiro, tenho 47 anos e sou casado!<br>
 🚩 Entre em contato pelo E-mail: charles_726@hotmail.com. <br>
 🎓 Sou Instrutor de Informática e Cursos Profissionalizantes.                                                     
